@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="chapter10" />
+        <module name="chapter4" />
+        <module name="chapter5" />
+        <module name="chapter6" />
+        <module name="chapter7" />
+        <module name="chapter8" />
+        <module name="chapter9" />
+        <module name="echo-client" />
+        <module name="echo-server" />
+        <module name="utils" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="chapter10" target="1.7" />
+      <module name="chapter4" target="1.7" />
+      <module name="chapter5" target="1.7" />
+      <module name="chapter6" target="1.7" />
+      <module name="chapter7" target="1.7" />
+      <module name="chapter8" target="1.7" />
+      <module name="chapter9" target="1.7" />
+      <module name="chpater2" target="1.7" />
+      <module name="echo-client" target="1.7" />
+      <module name="echo-server" target="1.7" />
+      <module name="nia-samples-parent" target="1.5" />
+      <module name="utils" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
